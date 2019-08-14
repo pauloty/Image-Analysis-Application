@@ -5,6 +5,4 @@
 
 - Opção de "path" foi removido.
 
-- Existem códigos comentadas que indicam alternativas de exibição do histograma.
-
-- 
+- Existem códigos comentados que indicam alternativas de exibição do histograma.
